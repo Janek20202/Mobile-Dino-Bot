@@ -1,1 +1,1 @@
-Modified Chrome Offline Dinosaur Game, Bot Included, Unlimited Possible Score
+Modified Chrome Offline Dinosaur Game, Bot Included, Unlimited Possible Score - Mobile Version
