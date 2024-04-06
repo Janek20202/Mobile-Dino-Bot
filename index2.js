@@ -1,6 +1,6 @@
 setTimeout(() => {
 Runner.instance_.gameOver = function(){}
-Runner.instance_.setSpeed(8)
+Runner.instance_.setSpeed(13)
 
 function keyDown(e) {
     Podium = {};
