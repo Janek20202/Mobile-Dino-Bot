@@ -110,7 +110,7 @@
         CLOUD_FREQUENCY: 0.5,
         GAMEOVER_CLEAR_TIME: 750,
         GAP_COEFFICIENT: 0.6,
-        GRAVITY: 0.6,
+        GRAVITY: 0.8,
         INITIAL_JUMP_VELOCITY: 12,
         INVERT_FADE_DURATION: 12000,
         INVERT_DISTANCE: 700,
@@ -1940,10 +1940,10 @@
      */
     DistanceMeter.config = {
         // Number of digits.
-        MAX_DISTANCE_UNITS: 5,
+        MAX_DISTANCE_UNITS: 10,
 
         // Distance that causes achievement animation.
-        ACHIEVEMENT_DISTANCE: 100,
+        ACHIEVEMENT_DISTANCE: 1000,
 
         // Used for conversion from pixel distance to a scaled unit.
         COEFFICIENT: 0.025,
