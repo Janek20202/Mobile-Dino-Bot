@@ -1,6 +1,5 @@
 setTimeout(() => {
 Runner.instance_.gameOver = function(){}
-Runner.instance_.tRex.setJumpVelocity(17)
 Runner.instance_.setSpeed(13)
 
 function keyDown(e) {
